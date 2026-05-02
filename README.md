@@ -214,7 +214,7 @@ The system processes vendor invoices, predicts freight costs, and flags suspicio
 
 ```bash
 # Clone from GitHub
-git clone https://github.com/your-username/globalmart.git
+[git clone https://github.com/Ashish29-glitch/GLOBALMART---VENDOR-INVOICE-INTELLIGENCE-PORTAL-VIIP-.git]
 cd globalmart
 
 # Verify project structure
